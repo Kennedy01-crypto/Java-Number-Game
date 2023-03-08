@@ -31,7 +31,6 @@
              Random rand=new Random();
              int upperbound=100;
              int randomNumber=rand.nextInt(upperbound);
-             //System.out.println("The random Number is:" + randomNumber);
 
              //promt input for the lucky number
              System.out.println("Enter the lucky number: ");
